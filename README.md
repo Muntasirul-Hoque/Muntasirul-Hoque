@@ -1,6 +1,6 @@
 - Hi, I’m @Muntasirul-Hoque
-- I’m interested in Solving Rubik's Cube and CP
-- I’m currently learning DataBase Management System (DBMS) & Data Stucture
+- Interested in Solving Rubik's Cube and CP
+- Currently learning DataBase Management System (DBMS) & Data Stucture
 - I've learned C, C++, Java Programing
 - How to reach me, https://www.facebook.com/muntasirul712
 

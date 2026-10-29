@@ -1,92 +1,171 @@
+ <div align="center">
+
 # Hi, I'm Muntasirul Hoque 👋
 
-### CSE Student @ AIUB | Aspiring Software Developer | Exploring AI & Data Science
+### CSE Student @ AIUB · Aspiring Software Developer · AI/ML Research Enthusiast
 
-I’m a Computer Science and Engineering student at **American International University-Bangladesh (AIUB)** with an interest in building practical software and exploring AI-powered solutions.
+*Building practical software, exploring intelligent systems, and learning by doing.*
 
-I enjoy learning by building, solving problems, and turning concepts into working applications. My current focus is strengthening my programming and development fundamentals while exploring machine learning, NLP, data science, and retrieval-augmented systems.
+[![GitHub](https://img.shields.io/badge/GitHub-Muntasirul--Hoque-181717?style=flat-square&logo=github)](https://github.com/Muntasirul-Hoque)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/)
+[![Profile Views](https://komarev.com/ghpvc/?username=Muntasirul-Hoque&style=flat-square&color=blue)](https://github.com/Muntasirul-Hoque)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muntasirul-Hoque)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muntasirul-hoque/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muntasirulhoque7@gmail.com)
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Studying Computer Science and Engineering at AIUB.
-- 💻 Interested in software development and practical engineering.
-- 🐍 Learning and working with Python.
-- 🤖 Exploring machine learning, NLP, and AI-powered applications.
-- 🔎 Interested in knowledge graphs, GraphRAG, and efficient information retrieval.
-- 🏆 Dean’s Award recipient at AIUB.
-- 🌱 Focused on improving my implementation skills through hands-on projects.
+I'm a Computer Science and Engineering student at **American International University-Bangladesh (AIUB)** interested in software engineering, artificial intelligence, and data-driven applications.
 
-## 🧭 Areas of Interest
+I enjoy turning concepts into working applications while strengthening my programming and engineering fundamentals. Alongside web development, I'm exploring machine learning, NLP, knowledge graphs, and efficient retrieval systems.
 
-| Area | Focus |
-|---|---|
-| Software Development | Programming, web technologies, application development |
-| AI & Machine Learning | ML fundamentals, NLP, intelligent applications |
-| Data Science | Data analysis, experimentation, and data-driven problem solving |
-| AI Research | GraphRAG, knowledge graphs, retrieval efficiency |
+- 🎓 Pursuing CSE at AIUB
+- 💻 Learning through hands-on development and coursework projects
+- 🐍 Strengthening my Python and machine learning skills
+- 🤖 Exploring LLMs, NLP, and vision-language models
+- 🔗 Interested in GraphRAG, knowledge graphs, and retrieval efficiency
+- 🏆 Dean's Award recipient across multiple academic terms
+
+## 🧩 What I Do
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Software Development
+
+- Programming fundamentals
+- Web technologies and application development
+- Practical problem-solving
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI & Intelligent Systems
+
+- Machine learning fundamentals
+- NLP and large language models
+- AI-powered applications
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Data Science
+
+- Data analysis and experimentation
+- Data-driven problem-solving
+- Exploring intelligent data applications
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 Research & Exploration
+
+- GraphRAG and knowledge graphs
+- Vision-language model hallucination
+- Retrieval efficiency and AI evaluation
+
+</td>
+</tr>
+</table>
 
 ## 🛠️ Tech Stack
 
-**Languages & Web Technologies**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### Languages & Web Technologies
 
-**Tools & Platforms**
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js&theme=dark)](https://skillicons.dev)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### Tools & Platforms
 
-**Exploring**
+[![My Tools](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)](https://skillicons.dev)
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Exploring-8A2BE2?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data%20Science-Exploring-2E8B57?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-Exploring-0EA5E9?style=for-the-badge)
+### Currently Exploring
 
-## 🚀 Projects & Research
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Exploring-8A2BE2?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-Exploring-2563EB?style=flat-square)
+![GraphRAG](https://img.shields.io/badge/GraphRAG-Research-0F766E?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-Exploring-9333EA?style=flat-square)
+
+</div>
+
+## 🚀 Featured Projects & Research
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🔗 Adaptive Graph Compression for GraphRAG
-Exploring reinforcement-learning-based graph compression for more efficient GraphRAG retrieval while retaining useful structural information.
 
-**Topics:** GraphRAG · Knowledge Graphs · Reinforcement Learning
+Exploring reinforcement-learning-based graph compression to reduce retrieval costs while preserving useful graph structure.
+
+**Focus areas**
+
+- Knowledge graphs
+- GraphRAG
+- Reinforcement learning
+- Retrieval efficiency
+
+</td>
+<td width="50%" valign="top">
 
 ### 🖼️ Hallucination Mitigation in Vision-Language Models
-Exploring training-based approaches for reducing hallucinations in vision-language models, including relational hallucination and evaluation methods.
 
-**Topics:** Vision-Language Models · LLMs · AI Evaluation
+Exploring approaches to identify, analyze, and mitigate hallucinations in vision-language models.
+
+**Focus areas**
+
+- Vision-language models
+- Hallucination detection
+- Model evaluation
+- AI reliability
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 🌐 Web Technologies Coursework
-Academic web development work and practical exercises.
+
+Academic web development exercises and practical implementation projects.
 
 **Repository:** [wbt-summer-2025-2026](https://github.com/Muntasirul-Hoque/wbt-summer-2025-2026)
 
-> Research projects are presented as ongoing explorations. Add individual repository links, results, and demonstrations as the work becomes publicly available.
+</td>
+</tr>
+</table>
+
+*Research topics are ongoing explorations. Further details and results will be shared as the work becomes publicly available.*
 
 ## 🏆 Achievements
 
-- 🥇 Dean’s Award recipient across multiple academic terms at AIUB.
-- 📚 Continuously developing technical skills through coursework, research, and independent learning.
+- 🥇 Dean's Award recipient across multiple academic terms at AIUB
+- 📚 Continuously developing technical skills through coursework, independent learning, and research
 
-## 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muntasirul-Hoque&show_icons=true&theme=tokyonight&hide_border=true)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muntasirul-Hoque&layout=compact&theme=tokyonight&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Muntasirul-Hoque&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Muntasirul-Hoque&theme=tokyonight&hide_border=true)
+<img height="165" src="https://streak-stats.demolab.com?user=Muntasirul-Hoque&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muntasirul-Hoque&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
+
+</div>
 
 ---
 
+<div align="center">
+
 ### 💬 Let's Connect
 
-I'm interested in connecting with developers, collaborating on practical projects, and learning from the software development and AI communities.
+Interested in software development, AI research, and building useful things.
 
-**Learn. Build. Improve. Repeat.**
+**Learn. Build. Improve. Repeat.** 🚀
+
+</div>

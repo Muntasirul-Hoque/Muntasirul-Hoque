@@ -6,9 +6,8 @@
 
 *Building practical software, exploring intelligent systems, and learning by doing.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Muntasirul--Hoque-181717?style=flat-square&logo=github)](https://github.com/Muntasirul-Hoque)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/)
-[![Profile Views](https://komarev.com/ghpvc/?username=Muntasirul-Hoque&style=flat-square&color=blue)](https://github.com/Muntasirul-Hoque)
+[![GitHub](https://img.shields.io/badge/GitHub-Muntasirul--Hoque-181717?style=flat-square&logo=github)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)]
 
 </div>
 

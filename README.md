@@ -1,8 +1,8 @@
  <div align="center">
 
-# Hi, I'm Muntasirul Hoque 👋
+# Muntasirul Hoque 
 
-### CSE Student @ AIUB · Aspiring Software Developer · AI/ML Research Enthusiast
+### CSE Student @ AIUB · Aspiring Data Analyst · AI/ML Research Enthusiast
 
 *Building practical software, exploring intelligent systems, and learning by doing.*
 
